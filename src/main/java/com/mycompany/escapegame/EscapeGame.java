@@ -12,11 +12,7 @@ import java.util.Scanner;
  */
 public class EscapeGame {
     public static void inicioJogo(){
-    System.out.println("----------------------------------------------------------------------------\n"
-                                 + "Nome: Pedro Lucas Botelho Freitas\n"
-                                 + "Matricula: 202135040\n"
-                                 + "-----------------------------------------------------------------------------\n\n"
-                                 + "Bem vindo ao EscapeRoom!!");
+    System.out.println("Bem vindo ao EscapeRoom!!");
     }
     
     public static void organizaJogo(){
